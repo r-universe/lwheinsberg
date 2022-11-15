@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dbGaPCheckup"]
+	path = dbGaPCheckup
+	url = https://github.com/lwheinsberg/dbgapcheckup
+	shallow = true
+	registered = true
